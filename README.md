@@ -1,5 +1,8 @@
 # Surgical Instrument Recognition using Image Processing and Comparison
 
+![image](https://github.com/user-attachments/assets/a4bd9377-6c8b-49ec-a014-014a471b7cc0)
+
+
 This MATLAB script implements a rule-based approach for surgical instrument recognition, utilizing image processing techniques to detect, label, and compare objects in images. The script also determines which instruments are missing, based on a comparison with a ground truth image.
 
 ## Overview
